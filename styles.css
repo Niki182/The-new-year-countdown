@@ -10,7 +10,7 @@ body {
 }
 
 .topbar {
-    background: linear-gradient(180deg, #047dc4, #062d48);
+    background: linear-gradient(180deg, white -60% ,#047dc4, #062d48);
     color: white;
     width: 100%;
     height: 50px;
@@ -28,7 +28,7 @@ body {
 
 .countdown {
     margin: 30px;
-    background: linear-gradient(180deg, #047dc4, #062d48);
+    background: linear-gradient(180deg, white -60% ,#047dc4, #062d48);
     width: 100%;
     color: white;
     height: 120px;
