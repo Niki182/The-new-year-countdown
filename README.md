@@ -2,7 +2,8 @@
 
 I made this lol
 
-<img width="1021" height="620" alt="Screenshot 2026-06-14 111112" src="https://github.com/user-attachments/assets/0ba89081-facc-43a2-9315-25014899cf4e" />
+<img width="898" height="647" alt="Screenshot 2026-06-14 111304" src="https://github.com/user-attachments/assets/9010486b-38a4-428c-9dc2-9afb4c9a9129" />
+
 
 
 
