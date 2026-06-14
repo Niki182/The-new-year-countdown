@@ -28,7 +28,7 @@ body {
 
 .countdown {
     margin: 30px;
-    background: linear-gradient(180deg, white -60% ,#047dc4, #062d48);
+    background: linear-gradient(180deg, rgb(0, 0, 0) -60% ,#047dc4, #062d48);
     width: 100%;
     color: white;
     height: 120px;
