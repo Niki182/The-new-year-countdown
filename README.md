@@ -2,7 +2,7 @@
 
 I made this lol
 
-<img width="908" height="668" alt="Screenshot 2026-06-11 185144" src="https://github.com/user-attachments/assets/8be86868-162a-464b-b094-642465bf8672" />
+<img width="1021" height="620" alt="Screenshot 2026-06-14 111112" src="https://github.com/user-attachments/assets/0ba89081-facc-43a2-9315-25014899cf4e" />
 
 
 
@@ -23,3 +23,5 @@ Update log:
 Website is published (10/06/2026)
 
 Changed the UI (11/06/2026)
+
+Changed the UI again (14/06/2026)
